@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "socket.io": "^4.7.1"
+  },
+  "name": "server",
+  "version": "1.0.0",
+  "description": "video-chat-app",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm start"
+  },
+  "author": "Abhay Patel",
+  "license": "ISC"
+}
